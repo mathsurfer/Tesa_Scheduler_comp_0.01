@@ -1,5 +1,6 @@
 # Tesa_Scheduler_comp_0.01
 30/09/2025
+Ceci est une version prototype et minimale de notre approche. Plusieurs parties seront à améliorer/scaler.
 
 1-Installation de Hypatia
 
